@@ -1,0 +1,1 @@
+I realize Python is prerequisite, but there is very little Python instruction. At a minimum, it would have been very helpful if the professors explained the syntax of the python examples that are shown during lectures.
